@@ -8,4 +8,9 @@
     <string name="timo_20">Ótimo (20%)</string>
     <string name="como_foi_o_servi_o">Como foi o serviço?</string>
     <string name="custo_do_servi_o">Custo do serviço</string>
+
+    <string name="primary_color">Primary color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
 </resources>
