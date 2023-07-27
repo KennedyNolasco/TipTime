@@ -7,4 +7,11 @@
         <item name="colorSecondary">@color/green_light</item>
         <item name="colorSecondaryVariant">@color/green</item>
     </style>
+
+    <style name="Theme.TipTime" parent="Base.Theme.TipTime">
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox
+        </item>
+        <item name="radioButtonStyle">@style/Widget.TipTime.CompoundButton.RadioButton</item>
+        <item name="switchStyle">@style/Widget.TipTime.CompoundButton.Switch</item>
+    </style>
 </resources>
